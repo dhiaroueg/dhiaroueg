@@ -33,7 +33,7 @@
 | 🌾 **[AgriMent](https://github.com/dhiaroueg/AgriGuide_Project)** | Multi-agent GenAI platform for agriculture, built with my team at Talan and improved solo afterwards: 6 decoupled agents, explainable scoring, hybrid-RAG regulation agent. *The LLM explains; critical figures stay deterministic.* | `LangGraph` `FastAPI` `Qdrant` `ChromaDB` `PyTorch` |
 | 🛠️ **[Software Dev Assistance Platform](https://github.com/mohemed-amine-gharbi/PFA_AGENTIC_REFACTORING)** | RAG coach and LangGraph refactoring agents over local LLMs, GraphRAG, CI/CD validation | `Ollama` `GraphRAG` `FAISS` `Next.js` |
 | 🧠 **[Brain Tumor Analysis](https://github.com/dhiaroueg/brain_tumor)** | 3D MRI segmentation (Dice ≈ 0.81) and 4-class classification (> 97%) | `TensorFlow` `U-Net` `EfficientNet` |
-| 📉 **Churn Prediction** | 52-variable ML pipeline: XGBoost F1 0.955, K-Means segmentation, Flask dashboard | `XGBoost` `scikit-learn` `Flask` |
+| 📉 **[Churn Prediction](https://github.com/dhiaroueg/projet_ml_retail)** | 52-variable ML pipeline: XGBoost F1 0.955, K-Means segmentation, Flask dashboard | `XGBoost` `scikit-learn` `Flask` |
 | 📄 **[CV Job Matcher](https://github.com/dhiaroueg/job-matching-cv)** | FastAPI service: CV parsing, live job aggregation, ATS-style scoring, cover letters | `FastAPI` `Asyncio` `LLM APIs` |
 | 📡 **Edge AI Weather Station** | On-device temperature prediction with TFLite Micro INT8 (±2°C) | `ESP32` `TFLite Micro` |
 
