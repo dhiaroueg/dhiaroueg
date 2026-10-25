@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1A2A"/><stop offset=".6" stop-color="#14283C"/><stop offset="1" stop-color="#1B3B4A"/></linearGradient></defs>
+<g transform="translate(0,0)"><rect width="300" height="230" rx="18" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="298.5" height="228.5" rx="18" fill="none" stroke="#C2A05A" stroke-opacity=".6" stroke-width="1.5"/>
+<polygon points="86,92 108,92 100,140 78,128" fill="#C2A05A" fill-opacity=".55"/><polygon points="114,92 136,92 144,128 122,140" fill="#C2A05A" fill-opacity=".55"/>
+<circle cx="111" cy="70" r="40" fill="#C2A05A" fill-opacity=".18"><animate attributeName="r" values="40;46;40" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="111" cy="70" r="34" fill="#0B1A2A" stroke="#C2A05A" stroke-width="3"/>
+<text x="111" y="83" text-anchor="middle" font-size="36" font-weight="800" fill="#C2A05A">1</text>
+<text x="150" y="68" font-size="12" fill="#9FB3C2" opacity="0"> </text>
+<text x="28" y="176" font-size="19" font-weight="700" fill="#fff">TEC.Week 3.0</text>
+<text x="28" y="200" font-size="13" fill="#9FB3C2">Tunisian Engineering Congress Week</text></g><g transform="translate(350,0)"><rect width="300" height="230" rx="18" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="298.5" height="228.5" rx="18" fill="none" stroke="#287A78" stroke-opacity=".6" stroke-width="1.5"/>
+<polygon points="86,92 108,92 100,140 78,128" fill="#287A78" fill-opacity=".55"/><polygon points="114,92 136,92 144,128 122,140" fill="#287A78" fill-opacity=".55"/>
+<circle cx="111" cy="70" r="40" fill="#287A78" fill-opacity=".18"><animate attributeName="r" values="40;46;40" dur="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="111" cy="70" r="34" fill="#0B1A2A" stroke="#287A78" stroke-width="3"/>
+<text x="111" y="83" text-anchor="middle" font-size="36" font-weight="800" fill="#287A78">2</text>
+<text x="150" y="68" font-size="12" fill="#9FB3C2" opacity="0"> </text>
+<text x="28" y="176" font-size="19" font-weight="700" fill="#fff">Talan Summer Camp 2026</text>
+<text x="28" y="200" font-size="13" fill="#9FB3C2">AgriMent · 10 teams, 120+ participants</text></g><g transform="translate(700,0)"><rect width="300" height="230" rx="18" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="298.5" height="228.5" rx="18" fill="none" stroke="#287A78" stroke-opacity=".6" stroke-width="1.5"/>
+<polygon points="111,38 176,66 111,94 46,66" fill="#287A78"/><path d="M76,82 v26 c0,12 70,12 70,0 v-26 l-35,16z" fill="#287A78" fill-opacity=".6"/>
+<line x1="176" y1="66" x2="176" y2="108" stroke="#C2A05A" stroke-width="3"/><circle cx="176" cy="112" r="5" fill="#C2A05A"/>
+<text x="28" y="176" font-size="19" font-weight="700" fill="#fff">ENIS, Sfax</text>
+<text x="28" y="200" font-size="13" fill="#9FB3C2">Computer Engineering · 3rd year · AI track</text></g>
+</svg>

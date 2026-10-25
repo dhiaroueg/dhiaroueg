@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" role="img">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1A2A"/><stop offset=".6" stop-color="#14283C"/><stop offset="1" stop-color="#1B3B4A"/></linearGradient><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#287A78"/><stop offset="1" stop-color="#C2A05A"/></linearGradient></defs>
+<rect width="1000" height="64" rx="14" fill="url(#bg)"/>
+<rect x="18" y="16" width="5" height="32" rx="2.5" fill="url(#bar)"/>
+<text x="40" y="42" font-size="26" font-weight="700" fill="#fff">Skills and stack</text>
+<text x="976" y="39" text-anchor="end" font-size="14" fill="#9FB3C2">tools I use to ship AI systems</text>
+<rect x="0" y="61" width="1000" height="3" fill="url(#bar)" opacity=".85"/>
+</svg>
